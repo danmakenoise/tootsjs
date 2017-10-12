@@ -1,0 +1,9 @@
+{
+  "name": "tootsjs-backend-vanilla",
+  "description": "tootsjs backend vanilla",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danmakenoise",
+  "license": "MIT"
+}
